@@ -1,0 +1,153 @@
+Welcome to the output file. Below you can find the encryption and decryption of the program.
+
+Encrypted Word 					 English Word
+
+	r					 e 
+
+	q					 d 
+
+	h					 u 
+
+	p					 c 
+
+	n					 a 
+
+	g					 t 
+
+	v					 i 
+
+	b					 o 
+
+	a					 n 
+
+	v					 i 
+
+	f					 s 
+
+	g					 t 
+
+	u					 h 
+
+	r					 e 
+
+	z					 m 
+
+	b					 o 
+
+	f					 s 
+
+	g					 t 
+
+	c					 p 
+
+	b					 o 
+
+	j					 w 
+
+	r					 e 
+
+	e					 r 
+
+	s					 f 
+
+	h					 u 
+
+	y					 l 
+
+	j					 w 
+
+	r					 e 
+
+	n					 a 
+
+	c					 p 
+
+	b					 o 
+
+	a					 n 
+
+	j					 w 
+
+	u					 h 
+
+	v					 i 
+
+	p					 c 
+
+	u					 h 
+
+	l					 y 
+
+	b					 o 
+
+	h					 u 
+
+	p					 c 
+
+	n					 a 
+
+	a					 n 
+
+	h					 u 
+
+	f					 s 
+
+	r					 e 
+
+	g					 t 
+
+	b					 o 
+
+	p					 c 
+
+	u					 h 
+
+	n					 a 
+
+	a					 n 
+
+	t					 g 
+
+	r					 e 
+
+	g					 t 
+
+	u					 h 
+
+	r					 e 
+
+	j					 w 
+
+	b					 o 
+
+	e					 r 
+
+	y					 l 
+
+	q					 d 
+
+	a					 n 
+
+	r					 e 
+
+	y					 l 
+
+	f					 s 
+
+	b					 o 
+
+	a					 n 
+
+	z					 m 
+
+	n					 a 
+
+	a					 n 
+
+	q					 d 
+
+	r					 e 
+
+	y					 l 
+
+	n					 a 
